@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/counters-forms-react/static/css/main.7034c3ce.chunk.css",
+    "main.js": "/counters-forms-react/static/js/main.d3fe6d69.chunk.js",
+    "main.js.map": "/counters-forms-react/static/js/main.d3fe6d69.chunk.js.map",
+    "runtime-main.js": "/counters-forms-react/static/js/runtime-main.5f82dee7.js",
+    "runtime-main.js.map": "/counters-forms-react/static/js/runtime-main.5f82dee7.js.map",
+    "static/js/2.d70c50a4.chunk.js": "/counters-forms-react/static/js/2.d70c50a4.chunk.js",
+    "static/js/2.d70c50a4.chunk.js.map": "/counters-forms-react/static/js/2.d70c50a4.chunk.js.map",
+    "index.html": "/counters-forms-react/index.html",
+    "static/css/main.7034c3ce.chunk.css.map": "/counters-forms-react/static/css/main.7034c3ce.chunk.css.map",
+    "static/js/2.d70c50a4.chunk.js.LICENSE.txt": "/counters-forms-react/static/js/2.d70c50a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f82dee7.js",
+    "static/js/2.d70c50a4.chunk.js",
+    "static/css/main.7034c3ce.chunk.css",
+    "static/js/main.d3fe6d69.chunk.js"
+  ]
+}
