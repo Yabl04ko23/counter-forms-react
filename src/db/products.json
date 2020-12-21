@@ -1,0 +1,6 @@
+[
+  { "id": "1", "count": 0, "step": 1, "min": 1, "max": 5, "img": "https://images.pexels.com/photos/2661790/pexels-photo-2661790.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260", "title": "Strawberry", "price": "50", "desk": "Sweet strawberry" },
+  { "id": "2", "count": 2, "step": 2, "min": 2, "max": 20, "img": "https://images.pexels.com/photos/2254063/pexels-photo-2254063.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260", "title": "Blackberry", "price": "100", "desk": "Sweet bleckberry" },
+  { "id": "3", "count": 2, "step": 1, "min": 2, "max": 40, "img": "https://images.pexels.com/photos/2893635/pexels-photo-2893635.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "title": "Pepper ", "price": "75", "desk": "Green pepper" },
+  { "id": "4", "count": 10, "step": 1, "min": 10, "max": 50, "img": "https://images.pexels.com/photos/2288692/pexels-photo-2288692.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260", "title": "Melon", "price": "125", "desk": "Just melon..." }
+]
